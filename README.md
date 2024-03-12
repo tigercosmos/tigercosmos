@@ -13,6 +13,6 @@ Liu’s research interests mainly focus on system software and high-performance 
 - LinkedIn: [@liuanchi](https://www.linkedin.com/in/liuanchi/)
 - Facebook Page: [微中子 @tigercosmos](https://www.facebook.com/CodingNeutrino/)
 - Twitter: [@tigercosmos](https://twitter.com/tigercosmos)
-- Email: phy.tiger@gmail.com(personal), acliu@cs.nycu.edu.tw(personal), anchi.liu@mujin.co.jp(business)
+- Email: phy.tiger@gmail.com(personal), acliu@cs.nycu.edu.tw(academic), anchi.liu@mujin.co.jp(business)
 
 <img src="https://github-readme-stats.vercel.app/api?username=tigercosmos&show_icons=true" alt="rtyrty" /> </p>
